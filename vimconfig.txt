@@ -1,0 +1,4 @@
+  1 syntax enable
+  2 set number
+  3 set tabstop=4
+  4 set autoindent
